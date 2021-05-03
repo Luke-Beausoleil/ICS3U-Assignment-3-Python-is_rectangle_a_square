@@ -7,6 +7,7 @@
 
 
 def main():
+    # this function checks if a rectangle with inputted dimensions is a square
 
     # input
     length = float(input("Enter the length of the rectangle: "))
